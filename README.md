@@ -1,6 +1,6 @@
 # Air Quality in Bulgaria (2025): relational database
 
-Group project for the course **Databases** (Ruse University, Erasmus+), Prof. Tsvetelina Kaneva.
+Group project for the course **Databases** (Ruse University, Erasmus+), Prof. Tsvetelina Kaneva and Prof. Irena Valova.
 
 A PostgreSQL 17 database of **hourly air-quality measurements in Bulgaria for 2025**, loaded from the open **OpenAQ API v3**. It contains 15 stations, 80 sensors and about 379,000 measurements of PM2.5, PM10, NO2, O3, SO2 and CO, plus WHO and EU limit values, a trigger, two views and 15 analytical queries.
 
